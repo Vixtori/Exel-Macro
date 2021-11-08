@@ -1,0 +1,10 @@
+For correct operation, you need to insert each new line into an adjacent line
+||
+=CONCAT(Q12;Y12)
+\\Leave empty
+||
+=concat(Z12;Z12)
+=CONCAT(AC12;Z12)
+||
+=CONCAT(Q12;AG12)
+=CONCAT(AD12;AF12)
