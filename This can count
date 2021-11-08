@@ -1,0 +1,2 @@
+Paste this formula in a cell one lower than the cell containing 1 in the column with the group number
+"=ЕСЛИ(E16=E15;F15;F15+1)"
